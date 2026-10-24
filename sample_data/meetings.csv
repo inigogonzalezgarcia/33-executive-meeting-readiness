@@ -1,0 +1,16 @@
+Meeting ID,Title,Type,Start,End,Room,Hybrid,In room,Remote,Tech owner,Tech check done,Tech check planned
+M01,ExCo weekly,executive,2026-10-26 09:00,2026-10-26 11:00,ExCo room,yes,9,2,Workplace engineer A,,
+M02,Board of Directors · Q3 results,board,2026-10-27 09:00,2026-10-27 13:30,Boardroom,yes,13,3,Workplace engineer A,,2026-10-26
+M03,Audit Committee,committee,2026-10-28 10:00,2026-10-28 12:30,Board room 2,yes,6,2,Workplace engineer B,2026-10-21,
+M04,Q3 results call · rehearsal,other,2026-10-29 13:30,2026-10-29 14:45,Boardroom,yes,5,3,Workplace engineer A,,
+M05,Risk Committee,committee,2026-10-29 15:00,2026-10-29 17:30,Boardroom,yes,7,1,Workplace engineer A,,2026-10-22
+M06,Q3 results · investor call,investor,2026-10-30 08:00,2026-10-30 09:30,Studio,yes,4,180,,2026-10-23,
+M07,ExCo weekly,executive,2026-11-02 09:00,2026-11-02 11:00,ExCo room,yes,9,2,Workplace engineer B,,
+M08,Credit Committee,committee,2026-11-02 11:10,2026-11-02 12:30,ExCo room,yes,8,3,Workplace engineer B,,2026-10-30
+M09,Remuneration Committee,committee,2026-11-03 10:00,2026-11-03 12:00,Lisbon board room,yes,5,2,Lisbon IT,,
+M10,Strategy workshop,executive,2026-11-04 09:00,2026-11-04 17:00,Meeting room 4.2,yes,12,2,Workplace engineer A,,
+M11,Town hall · Q3,town hall,2026-11-05 16:00,2026-11-05 17:00,Auditorium,yes,95,640,Workplace engineer B,,
+M12,Board · Iberia subsidiary,board,2026-11-05 10:00,2026-11-05 13:00,Barcelona board room,yes,7,2,Barcelona IT,,2026-11-04
+M13,Nomination Committee,committee,2026-11-06 12:00,2026-11-06 13:00,Chair's office,yes,3,1,Workplace engineer A,,2026-11-05
+M14,ExCo weekly,executive,2026-11-09 09:00,2026-11-09 11:00,ExCo room,yes,9,2,Workplace engineer B,,
+M00,Board strategy day,board,2026-10-15 09:00,2026-10-15 17:00,Boardroom,yes,14,2,Workplace engineer A,2026-10-14,

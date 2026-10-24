@@ -1,0 +1,26 @@
+Ticket,Date,Room,Device,Meeting ID,Category,Minutes lost,Summary
+INC4100,2026-07-29 12:00,ExCo room,,,Audio,0,Remote attendees could not hear the room; speaker set back to default
+INC4101,2026-07-29 17:00,ExCo room,,,Join,5,Teams meeting did not start from the console; joined from the Tap again
+INC4102,2026-08-04 10:00,Meeting room 4.5,,,Audio,4,Remote attendees could not hear the room; speaker set back to default
+INC4103,2026-08-08 15:00,Training room,,,Join,10,Teams meeting did not start from the console; joined from the Tap again
+INC4104,2026-08-10 13:00,Boardroom,,,Content sharing,7,HDMI ingest not detected; used wireless share
+INC4105,2026-08-22 09:00,Studio,,,Room console,8,Touch console unresponsive; restarted
+INC4106,2026-08-25 14:00,Lisbon board room,,,Camera,11,Camera frozen; reboot of the Studio X70
+INC4107,2026-08-28 11:00,Boardroom,,,Display,9,Display 2 black after the room woke up; power cycle
+INC4108,2026-08-29 13:00,Meeting room 4.2,,,Content sharing,8,Laptop could not share to the room; cable replaced
+INC4109,2026-09-02 13:00,Auditorium,,,Camera,6,Camera framing stuck on one side; reset
+INC4110,2026-09-08 10:00,Auditorium,,,Join,8,Teams meeting did not start from the console; joined from the Tap again
+INC4111,2026-09-09 17:00,Barcelona board room,,,Camera,8,Camera framing stuck on one side; reset
+INC4112,2026-09-13 12:00,Studio,,,Content sharing,6,Laptop could not share to the room; cable replaced
+INC4113,2026-09-14 10:00,Boardroom,,,Audio,15,Echo for remote attendees; ceiling mic gain reset after a firmware update
+INC4114,2026-09-19 14:00,Barcelona board room,,,Content sharing,6,Laptop could not share to the room; cable replaced
+INC4115,2026-09-20 14:00,Training room,,,Audio,0,Remote attendees could not hear the room; speaker set back to default
+INC4116,2026-09-22 10:00,Lisbon board room,,,Join,18,Room could not join; resource account password expired
+INC4117,2026-09-27 10:00,Meeting room 4.5,,,Room console,8,Touch console unresponsive; restarted
+INC4118,2026-09-28 11:00,,IPAD-B01,,Device sync,5,Pack annotations not synced; fixed after sign-in
+INC4119,2026-10-01 10:00,Boardroom,,,Display,6,Display 2 flickering at the start of a committee meeting
+INC4120,2026-10-15 14:00,Boardroom,,M00,Display,12,Display 2 lost signal twice during the strategy day; reconnected at the switcher
+INC4121,2026-10-15 14:00,,IPAD-B07,M00,Board app,8,Board app closed while opening the pack; reinstalled
+INC4122,2026-10-17 14:00,Meeting room 4.2,,,Camera,4,Camera framing stuck on one side; reset
+INC4123,2026-10-22 14:00,Lisbon board room,,,Network,30,Room offline after a switch change at the Lisbon office
+INC4124,2026-10-23 14:00,Board room 2,,,Audio,25,Table microphone array not detected by the room; meeting moved to the ExCo room

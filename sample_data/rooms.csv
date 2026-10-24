@@ -1,0 +1,12 @@
+Room,Site,Platform,Hardware,Capacity,Health,Last heartbeat,Version,Target version,Next update,Camera,Microphone,Speaker,Display,Console
+Boardroom,Head office,Teams Rooms on Windows,Crestron Flex UC-C160 · ceiling mics · 2 displays,22,Degraded,2026-10-25 07:48,5.3.88,5.4.112,2026-10-26 22:00,ok,ok,ok,degraded,ok
+Board room 2,Head office,Teams Rooms on Windows,Crestron Flex UC-C100 · table mics · 1 display,14,Unhealthy,2026-10-25 07:54,5.4.112,5.4.112,,ok,disconnected,ok,ok,ok
+ExCo room,Head office,Teams Rooms on Windows,Logitech Rally Plus · Tap · 2 displays,16,Healthy,2026-10-25 07:54,5.4.112,5.4.112,,ok,ok,ok,ok,ok
+Studio,Head office,Teams Rooms on Windows,Logitech Rally Bar · Tap · 1 display,6,Healthy,2026-10-25 07:42,5.4.112,5.4.112,,ok,ok,ok,ok,ok
+Lisbon board room,Lisbon,Teams Rooms on Android,Poly Studio X70 · TC10,12,Offline,2026-10-22 06:12,5.2.41,5.4.112,,ok,ok,ok,ok,ok
+Barcelona board room,Barcelona,Teams Rooms on Android,Poly Studio X50 · TC10,10,Healthy,2026-10-25 07:30,5.3.88,5.4.112,,ok,ok,ok,ok,ok
+Meeting room 4.2,Head office,Teams Rooms on Windows,Logitech Rally Bar Mini · Tap,8,Healthy,2026-10-25 07:48,5.4.112,5.4.112,,ok,ok,ok,ok,ok
+Meeting room 4.5,Head office,Teams Rooms on Windows,Logitech Rally Bar Mini · Tap,8,Healthy,2026-10-25 07:36,5.3.88,5.4.112,,ok,ok,ok,ok,ok
+Auditorium,Head office,Teams Rooms on Windows,Crestron Flex · Logitech Rally Plus · stage mics,120,Healthy,2026-10-25 07:54,5.4.112,5.4.112,2026-11-06 21:00,ok,ok,ok,ok,ok
+Chair's office,Head office,,,6,,,,,,,,,,
+Training room,Head office,Teams Rooms on Windows,Logitech Rally Bar · Tap,20,Degraded,2026-10-25 07:24,5.4.112,5.4.112,,ok,ok,ok,ok,degraded

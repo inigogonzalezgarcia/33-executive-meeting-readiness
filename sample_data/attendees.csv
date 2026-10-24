@@ -1,0 +1,87 @@
+Meeting ID,Name,Role,VIP,Devices,Remote
+M00,Chair,Chair of the Board,yes,IPAD-B01,no
+M00,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M00,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M00,NED 1,"Non-executive director, Audit chair",yes,IPAD-B04,no
+M00,NED 2,Non-executive director,yes,IPAD-B05,no
+M00,NED 3,"Non-executive director, Risk chair",yes,IPAD-B06,no
+M00,NED 4,"Non-executive director, Remuneration chair",yes,IPAD-B07,no
+M00,NED 5,Non-executive director,yes,IPAD-B08,yes
+M00,NED 6,Non-executive director,yes,IPAD-B09,no
+M00,NED 7,Non-executive director,yes,IPAD-B10,no
+M00,NED 8,Non-executive director,yes,IPAD-B11,yes
+M00,Company Secretary,Company Secretary,yes,MBP-E05,no
+M00,General Counsel,General Counsel,yes,IPAD-B12,no
+M01,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M01,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M01,COO,Chief Operating Officer,yes,MBP-E07,yes
+M01,CRO,Chief Risk Officer,yes,MBP-E06,no
+M01,CHRO,HR Director,yes,MBP-E08,no
+M01,General Counsel,General Counsel,yes,IPAD-B12,no
+M01,Company Secretary,Company Secretary,yes,MBP-E05,no
+M07,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M07,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M07,COO,Chief Operating Officer,yes,MBP-E07,no
+M07,CRO,Chief Risk Officer,yes,MBP-E06,no
+M07,CHRO,HR Director,yes,MBP-E08,no
+M07,General Counsel,General Counsel,yes,IPAD-B12,no
+M07,Company Secretary,Company Secretary,yes,MBP-E05,no
+M14,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M14,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M14,COO,Chief Operating Officer,yes,MBP-E07,no
+M14,CRO,Chief Risk Officer,yes,MBP-E06,no
+M14,CHRO,HR Director,yes,MBP-E08,no
+M14,General Counsel,General Counsel,yes,IPAD-B12,no
+M14,Company Secretary,Company Secretary,yes,MBP-E05,no
+M10,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M10,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M10,COO,Chief Operating Officer,yes,MBP-E07,no
+M10,CRO,Chief Risk Officer,yes,MBP-E06,no
+M10,CHRO,HR Director,yes,MBP-E08,no
+M10,General Counsel,General Counsel,yes,IPAD-B12,no
+M10,Company Secretary,Company Secretary,yes,MBP-E05,no
+M02,Chair,Chair of the Board,yes,IPAD-B01,no
+M02,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M02,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M02,NED 1,"Non-executive director, Audit chair",yes,IPAD-B04,no
+M02,NED 2,Non-executive director,yes,IPAD-B05,no
+M02,NED 3,"Non-executive director, Risk chair",yes,IPAD-B06,yes
+M02,NED 4,"Non-executive director, Remuneration chair",yes,IPAD-B07,no
+M02,NED 5,Non-executive director,yes,IPAD-B08,yes
+M02,NED 6,Non-executive director,yes,IPAD-B09,no
+M02,NED 7,Non-executive director,yes,IPAD-B10,no
+M02,NED 8,Non-executive director,yes,IPAD-B11,yes
+M02,Company Secretary,Company Secretary,yes,MBP-E05,no
+M02,General Counsel,General Counsel,yes,IPAD-B12,no
+M03,NED 1,"Non-executive director, Audit chair",yes,IPAD-B04,no
+M03,NED 2,Non-executive director,yes,IPAD-B05,no
+M03,NED 6,Non-executive director,yes,IPAD-B09,yes
+M03,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M03,CRO,Chief Risk Officer,yes,MBP-E06,no
+M03,Company Secretary,Company Secretary,yes,MBP-E05,no
+M04,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M04,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M05,NED 3,"Non-executive director, Risk chair",yes,IPAD-B06,no
+M05,NED 7,Non-executive director,yes,IPAD-B10,yes
+M05,CRO,Chief Risk Officer,yes,MBP-E06,no
+M05,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M05,Company Secretary,Company Secretary,yes,MBP-E05,no
+M06,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M06,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M08,CRO,Chief Risk Officer,yes,MBP-E06,no
+M08,CFO,Chief Financial Officer,yes,MBP-E03;IPH-E03,no
+M08,COO,Chief Operating Officer,yes,MBP-E07,no
+M09,NED 4,"Non-executive director, Remuneration chair",yes,IPAD-B07,no
+M09,NED 8,Non-executive director,yes,IPAD-B11,yes
+M09,Chair,Chair of the Board,yes,IPAD-B01,no
+M09,CHRO,HR Director,yes,MBP-E08,no
+M09,Company Secretary,Company Secretary,yes,MBP-E05,no
+M11,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,no
+M12,Iberia director 1,Subsidiary director,yes,IPAD-S01,no
+M12,Iberia director 2,Subsidiary director,yes,IPAD-S02,no
+M12,Iberia director 3,Subsidiary director,yes,,no
+M12,CEO,Chief Executive,yes,IPAD-B02;IPH-E01,yes
+M12,General Counsel,General Counsel,yes,IPAD-B12,no
+M13,Chair,Chair of the Board,yes,IPAD-B01,no
+M13,NED 1,"Non-executive director, Audit chair",yes,IPAD-B04,no
+M13,Company Secretary,Company Secretary,yes,MBP-E05,no
